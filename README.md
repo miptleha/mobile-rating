@@ -9,10 +9,10 @@ HTML Table comming soon...
 | MediaTek Dimensity 8300 Ultra (Mali-G615 MP6) |    1432 |   4663   |  454 |
 | Qualcomm Snapdragon 6 Gen 4 (Adreno 810) |         1110 |   3116   |  130 |
 | MediaTek Dimensity 7300 Ultimate (Mali-G615 MC2) | 1043 |   2977   |  114 |
-| MediaTek Helio G100 Ultimate (Mali-G57 MP2) |      713  |   1800   |  63  | 
-| MediaTek Helio G99 Ultra (Mali-G57 MC2) |          728  |   1989   |  63  |
+| MediaTek Helio G99 Ultra (Mali-G57 MP2) |          728  |   1989   |  63  |
 | Qualcomm Snapdragon 685 (Adreno 610) |             478  |   1544   |  36  |
 | Unisoc T7250 (Mali-G57 MP1) |                      429  |   1402   |  22  |
+| Mediatek Helio G81 (Mali-G52 MP2) |                418  |   1031   |  42  |
 
 
 
