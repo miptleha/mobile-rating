@@ -12,7 +12,7 @@ HTML Table comming soon...
 | MediaTek Helio G100 Ultimate (Mali-G57 MP2) |      713  |   1800   |  63  | 
 | MediaTek Helio G99 Ultra (Mali-G57 MC2) |          728  |   1989   |  63  |
 | Qualcomm Snapdragon 685 (Adreno 610) |             478  |   1544   |  36  |
-| Unisoc T7250 (Mali-G57 MP1) |                      429  |   1402   |      |
+| Unisoc T7250 (Mali-G57 MP1) |                      429  |   1402   |  22  |
 
 
 
