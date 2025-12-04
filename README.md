@@ -4,7 +4,8 @@ Rating of current mobile processors
 
 HTML Table comming soon...
 
-| Processor (GPU) | GeekBench 6.5 Single-Core | GeekBench 6.5 Multi-Core | GPU (GFXBench) | Antutu (Total) |
+
+| Processor (GPU) | GeekBench 6.5 Single-Core | GeekBench 6.5 Multi-Core | GPU (GFXBench) | Antutu (Total)
 | ------ | ------ | ------ | ------ |
 | MediaTek Dimensity 8300 Ultra (Mali-G615 MP6) |    1432 |   4663   |  454 | 796 852 |
 | Qualcomm Snapdragon 6 Gen 4 (Adreno 810) |         1110 |   3116   |  130 | 523 312 |
