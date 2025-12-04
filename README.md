@@ -1,5 +1,4 @@
-# mobile-rating
-Rating of current mobile processors
+# Rating of current mobile processors
 
 
 | Processor (GPU) | GeekBench 6.5 Single-Core | GeekBench 6.5 Multi-Core | GPU (GFXBench) | Antutu (Total) |
@@ -18,4 +17,4 @@ Rating of current mobile processors
 Similar to the [CPU rating page](https://github.com/miptleha/cpu-rating), I look at the ratings of all mobile processors (single-thread, multi-thread) on [Notebook Check Site](https://www.notebookcheck.com/Smartphone-Prozessoren-Benchmarkliste.149507.0.html), as well as the [integrated GPU's performance](https://www.notebookcheck.com/Smartphone-Grafikkarten-Benchmarkliste.149357.0.html). Altenative Antutu [rating](https://www.antutu.com/en/ranking/soc0.htm).  
 Unfortunately, many phone manufacturers (as well as laptop manufacturers) equip their devices with older components to reduce device price. In addition to the RAM and storage size, as well as screen resolution, which are obvious to every user, there is another important component: **THE PROCESSOR**.
 
-Please write which popular mobile processors should be added to this table.
+Please [write](https://github.com/miptleha/mobile-rating/issues) which popular mobile processors should be added to this table.
